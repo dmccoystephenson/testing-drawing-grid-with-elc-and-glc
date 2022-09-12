@@ -1,2 +1,2 @@
-# env-lib-cpp-project-template
-This is a template for a C++ project using env-lib-cpp.
+# testing-drawing-grid-with-elc-and-glc
+This project is for testing drawing a grid using env-lib-cpp and graphik-lib-cpp.
