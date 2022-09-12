@@ -7,7 +7,7 @@
 #include <string>
 #include <iostream>
 
-#include <SDL2/SDL.h"
+#include <SDL2/SDL.h>
 
 #include "../env-lib-cpp/src/header/entity.h"
 #include "../env-lib-cpp/src/header/environment.h"
