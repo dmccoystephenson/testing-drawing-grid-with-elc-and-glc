@@ -1,3 +1,6 @@
 [submodule "env-lib-cpp"]
 	path = env-lib-cpp
 	url = https://github.com/Preponderous-Software/env-lib-cpp
+[submodule "graphik-lib-cpp"]
+	path = graphik-lib-cpp
+	url = https://github.com/Preponderous-Software/graphik-lib-cpp
